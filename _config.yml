@@ -3,8 +3,8 @@
 title: Elizabeth Danielle Vasquez
 description: PhD Candidate | Stanford University | MIT '19
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: "https://elizabethdvasquez.github.io" #custom url to be used instead of GitHub repository
 email: vasqueze@stanford.edu
 
 # Pagination
